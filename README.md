@@ -29,9 +29,10 @@
 
 ### 🎯 Currently Working On
 
-- `🌙 NovaDetect` — ISRO Hackathon 2025 lunar detection project  
-- `🌐 FinWell` — Smart budgeting for students  
-- `📍 Findeth` — Navigation system using Leaflet.js
+- ` NovaDetect` — ISRO Hackathon 2025 lunar detection project  
+- ` FinWell` — Smart budgeting for students  
+- ` Findeth` — Navigation system using Leaflet.js
+- ` Sanobots` — Personal medical Assistant
 
 ---
 
